@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images potholes</folder>
+	<filename>30.jpg</filename>
+	<path>C:\Users\siddharth\Downloads\images potholes\30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>63</ymin>
+			<xmax>276</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
